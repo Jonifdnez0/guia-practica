@@ -1,25 +1,25 @@
-# GuíaPráctica — web inicial de afiliación
+# BienEquipado — versión 2
 
-Esta es una primera versión estática de la web con cinco categorías:
-- Perros
-- Camping
-- Huerto urbano
-- Bricolaje
-- Pesca
+Web estática preparada para GitHub Pages.
 
-## Publicarla gratis con GitHub Pages
-1. Crea una cuenta en GitHub.
-2. Crea un repositorio público, por ejemplo `guia-practica`.
-3. Sube todos los archivos de esta carpeta a la raíz del repositorio.
-4. En Settings → Pages, selecciona despliegue desde la rama `main` y carpeta `/ (root)`.
-5. Guarda y espera a que GitHub publique la web.
+Incluye:
+- Nueva portada
+- 5 categorías
+- 25 guías iniciales
+- Navegación y estructura interna
+- Diseño responsive
+- Metadatos SEO básicos
+- Aviso de afiliación y privacidad como borradores
 
-## Antes de monetizar
-- Elegir nombre y dominio.
-- Sustituir textos de ejemplo por contenido editorial original.
-- Solicitar Amazon Afiliados y cumplir sus condiciones.
-- Añadir la declaración de afiliación exigida.
-- Completar privacidad/cookies según las herramientas que se incorporen.
-- Sustituir los enlaces `#` por enlaces reales de afiliación.
+## Cómo actualizar GitHub
+Sustituye los archivos de la versión anterior por TODOS los archivos de esta carpeta.
+Mantén el repositorio y la configuración de GitHub Pages como están.
 
-La versión actual es un prototipo: no incluye todavía CMS, buscador, analítica, comparador dinámico ni integración de Amazon.
+## Próximos pasos
+1. Revisar nombre y branding.
+2. Mejorar y revisar los 25 artículos con contenido editorial original.
+3. Investigar palabras clave.
+4. Añadir comparativas y productos reales.
+5. Configurar Search Console y sitemap.
+6. Revisar legal/cookies.
+7. Solicitar y configurar afiliación cuando la web cumpla los requisitos.
